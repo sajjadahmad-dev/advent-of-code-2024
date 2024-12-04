@@ -1,3 +1,4 @@
+![160be980-3b1a-11eb-9dbe-439a40adfa99](https://github.com/user-attachments/assets/a26511ea-aa7a-40a1-b936-4ff3cdce7279)
 # 🎄 Advent of Code 2024 🎅
 
 Welcome to my **Advent of Code 2024** repository! Join me as I tackle 25 days of exciting and mind-bending coding challenges. This journey is all about sharpening problem-solving skills, exploring algorithmic thinking, and, most importantly, having fun while coding!
